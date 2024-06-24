@@ -1,0 +1,1 @@
+Welcome to my portfolio! This folder contains PDFs of some of my favourite work. The accompanying video presentation for White-Paper_COVID can be found [here](https://video.liberta.vip/w/vH7M1eu2iAxp1NoCMfvhKd)
