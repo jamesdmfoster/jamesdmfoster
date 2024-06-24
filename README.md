@@ -4,7 +4,7 @@
 - My portfolio can be found [here](https://github.com/jamesdmfoster/Portfolio)
 - I specialize in:
   - [User manuals](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/User-Manual_DVDStyler.pdf)
-  - [Documentation](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/Documentation-Plan_GIMP.pdf)
+  - [Technical documentation](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/Documentation-Plan_GIMP.pdf)
   - [White papers](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/White-Paper_COVID.pdf)
 - I'm also on [LinkedIn](https://www.linkedin.com/in/jamesdmfoster/)
 <!---
