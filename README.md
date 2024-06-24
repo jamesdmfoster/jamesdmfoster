@@ -1,5 +1,5 @@
-- I'm James Foster, a technical writer from Ottawa 🇨🇦 
-- My pronouns are [they/them](https://en.pronouns.page/are/they/them)
+- I'm James Foster, a technical writer from Ottawa 🇨🇦
+- My pronouns are [they/them](https://en.pronouns.page/are/they/them) 🏳️‍🌈
 - I have a [graduate certificate](https://www.algonquincollege.com/online/program-info/technical-writer/) in technical writing from Algonquin College
 - My portfolio can be found [here](https://github.com/jamesdmfoster/Portfolio)
 - I specialize in:
