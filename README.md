@@ -6,7 +6,7 @@
   - UX
   - FOSS
 - My CV can be found [here](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/CV_James-Foster.pdf)
-- My portfolio can be found [here](https://github.com/jamesdmfoster/Portfolio)
+- My portfolio can be found [here](https://github.com/jamesdmfoster/Portfolio](https://github.com/jamesdmfoster/jamesdmfoster/tree/main/Portfolio)
 - I specialize in:
   - [User manuals](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/User-Manual_DVDStyler.pdf)
   - [Technical documentation](https://github.com/jamesdmfoster/jamesdmfoster/blob/main/Portfolio/Documentation-Plan_GIMP.pdf)
